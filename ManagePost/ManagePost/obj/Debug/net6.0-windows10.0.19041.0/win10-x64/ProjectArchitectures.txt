@@ -1,0 +1,1 @@
+C:\Users\kirota\Documents\git\ManagePost\ManagePost\ManagePost\ManagePost.csproj;x64
